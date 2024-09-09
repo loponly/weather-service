@@ -1,3 +1,9 @@
+"""
+Author: Enkhbat E
+Date: 2024-09-09
+Description: Main application entry point.
+"""
+
 from fastapi import FastAPI, HTTPException, Query
 from .weather_service import fetch_weather_data
 from .storage import store_weather_data

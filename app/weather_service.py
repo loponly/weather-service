@@ -1,3 +1,9 @@
+"""
+Author: Enkhbat E
+Date: 2024-09-09
+Description: Weather service for fetching weather data from external API.
+"""
+
 import aiohttp
 import logging
 

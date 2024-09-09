@@ -1,3 +1,9 @@
+"""
+Author: Enkhbat E
+Date: 2024-09-09
+Description: Storage service for storing weather data locally.
+"""
+
 import aiofiles
 import json
 import os

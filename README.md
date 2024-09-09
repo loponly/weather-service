@@ -41,6 +41,11 @@ A simple weather API service using FastAPI that fetches weather data from an ext
         GET /weather?city=London
         ```
 
+## Directory Structure
+
 ## License
 
 This project is licensed under the MIT License.
+
+## Author
+- Enkhbat E

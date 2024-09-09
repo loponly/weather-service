@@ -1,3 +1,9 @@
+"""
+Author: Enkhbat E
+Date: 2024-09-09
+Description: Database service for logging events into the SQLite database.
+"""
+
 import aiosqlite
 import logging
 
